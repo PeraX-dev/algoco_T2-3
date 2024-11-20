@@ -1,0 +1,14 @@
+Datasets:
+
+1. Ambos vacíos = 0.00009
+ahoraelotrostringestavacio ' ' = 0.000034
+2. Repetidos
+sfdsdsfdsffdsdsfsddsfdsfdssdffsddddfdsdsfdsdsffdsdsdfssdffdss fdssfdsfdsdfsdfsfdsdfdsfsdfsfdsdfsfddfsfdsdfsdfsfdsfdsdsfdsfd = 0.000037
+pezpezpezpezpezpezpezpezpezpezpezpezpezpezpezpez panpanpanpanpanpanpanpanpanpanpanpanpanpanpanpan = 0.000038
+zmmemmzmemzmemmzmxbbewmmzzmmzm zmmemrmmzmmwmamzmqmmammz = 0.000046
+aaaaaaaababbababaabbbbbbbbbbab bbbbbababaaaaaaaaaaababababbbaaabaa = 0.000053
+3. Transposiciones
+parenelsemestrequemequierobajar pranelesemsetreqeumequierobajra = 0.000034
+zpaodjgabafpasfjadjnvoawnc pzoajdagbafpsaasfjalskf = 0.000011
+apolskdapkdasaskfgoasajgosaaas paloksadkpdaasksgfaoasgjsoaasa = 0.000033
+holabuenastardescomoestayobiengraciasdecasualidadmepodríadecirlahoraporfavor ohalbuenastradseocomsetaoyibnegracaisedcasualiddaemopdriaedcrialhoraprofavro = 0.000049
