@@ -1,5 +1,5 @@
 Datasets:
-
+[strings] = [tiempo (s)]
 1. Ambos vacíos = 0.00009
 ahoraelotrostringestavacio ' ' = 0.000034
 2. Repetidos
